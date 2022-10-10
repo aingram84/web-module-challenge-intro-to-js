@@ -100,7 +100,7 @@ function dogYears(age){
   return age * 7;
 }
 
-console.log('Task 2:', dogYears(31));
+console.log('Task 2:', dogYears(5));
 
 /*🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 3 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀*/
 
